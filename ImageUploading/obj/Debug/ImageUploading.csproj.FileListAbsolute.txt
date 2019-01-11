@@ -1,0 +1,18 @@
+c:\users\jo\documents\visual studio 2015\Projects\ImageUploading\ImageUploading\bin\Debug\ImageUploading.exe.config
+c:\users\jo\documents\visual studio 2015\Projects\ImageUploading\ImageUploading\bin\Debug\ImageUploading.exe
+c:\users\jo\documents\visual studio 2015\Projects\ImageUploading\ImageUploading\bin\Debug\ImageUploading.pdb
+c:\users\jo\documents\visual studio 2015\Projects\ImageUploading\ImageUploading\obj\Debug\ImageUploading.csprojResolveAssemblyReference.cache
+c:\users\jo\documents\visual studio 2015\Projects\ImageUploading\ImageUploading\obj\Debug\ImageUploading.Form1.resources
+c:\users\jo\documents\visual studio 2015\Projects\ImageUploading\ImageUploading\obj\Debug\ImageUploading.Properties.Resources.resources
+c:\users\jo\documents\visual studio 2015\Projects\ImageUploading\ImageUploading\obj\Debug\ImageUploading.csproj.GenerateResource.Cache
+c:\users\jo\documents\visual studio 2015\Projects\ImageUploading\ImageUploading\obj\Debug\ImageUploading.exe
+c:\users\jo\documents\visual studio 2015\Projects\ImageUploading\ImageUploading\obj\Debug\ImageUploading.pdb
+C:\Users\Jo\Documents\Github\ImageUpload\ImageUpload\ImageUploading\bin\Debug\ImageUploading.exe.config
+C:\Users\Jo\Documents\Github\ImageUpload\ImageUpload\ImageUploading\obj\Debug\ImageUploading.exe
+C:\Users\Jo\Documents\Github\ImageUpload\ImageUpload\ImageUploading\obj\Debug\ImageUploading.pdb
+C:\Users\Jo\Documents\Github\ImageUpload\ImageUpload\ImageUploading\bin\Debug\ImageUploading.exe
+C:\Users\Jo\Documents\Github\ImageUpload\ImageUpload\ImageUploading\bin\Debug\ImageUploading.pdb
+C:\Users\Jo\Documents\Github\ImageUpload\ImageUpload\ImageUploading\obj\Debug\ImageUploading.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Documents\Github\ImageUpload\ImageUpload\ImageUploading\obj\Debug\ImageUploading.Form1.resources
+C:\Users\Jo\Documents\Github\ImageUpload\ImageUpload\ImageUploading\obj\Debug\ImageUploading.Properties.Resources.resources
+C:\Users\Jo\Documents\Github\ImageUpload\ImageUpload\ImageUploading\obj\Debug\ImageUploading.csproj.GenerateResource.Cache
